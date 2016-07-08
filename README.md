@@ -7,12 +7,13 @@ This library offers articles and personal pronouns for Inanimate objects (also m
 
 Once you have imported the library you can use attributes for getting German articles and pronouns on you inamimate objects. The names of the attributes follow this scheme:
 
-article_<case>_<definite?>
-pp_<case>
+article_[case]_[definite?]
 
-where <case> can be: nom, gen, dat, acc (for nominative, genitive, dative, accusative)
+pp_[case]
 
-and <definite> can be: def, ind (for definite, indefinite)
+where [case] can be: nom, gen, dat, acc (for nominative, genitive, dative, accusative)
+
+and [definite?] can be: def, ind (for definite, indefinite)
 
 Indefinite only works on singular objects.
 
