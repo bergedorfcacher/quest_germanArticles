@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<library>
+  <type name="maleobject">
+    <displayverbs type="stringlist">
+      <value>Untersuche</value>
+      <value>Nimm</value>
+    </displayverbs>
+    <gender>er</gender>
+    <article>ihn</article>
+    <attr name="article_nom_def">der</attr>
+    <attr name="article_gen_def">des</attr>
+    <attr name="article_dat_def">dem</attr>
+    <attr name="article_acc_def">den</attr>
+    <attr name="article_nom_def_UC">Der</attr>
+    <attr name="article_gen_def_UC">Des</attr>
+    <attr name="article_dat_def_UC">Dem</attr>
+    <attr name="article_acc_def_UC">Den</attr>
+    <attr name="article_nom_ind">ein</attr>
+    <attr name="article_gen_ind">eines</attr>
+    <attr name="article_dat_ind">einem</attr>
+    <attr name="article_acc_ind">einen</attr>
+    <attr name="article_nom_ind_UC">Ein</attr>
+    <attr name="article_gen_ind_UC">Eines</attr>
+    <attr name="article_dat_ind_UC">Einem</attr>
+    <attr name="article_acc_ind_UC">Einen</attr>
+    <attr name="pp_nom">er</attr>
+    <attr name="pp_gen">seiner</attr>
+    <attr name="pp_dat">ihm</attr>
+    <attr name="pp_acc">ihn</attr>
+    <attr name="pp_nom_UC">Er</attr>
+    <attr name="pp_gen_UC">Seiner</attr>
+    <attr name="pp_dat_UC">Ihm</attr>
+    <attr name="pp_acc_UC">Ihn</attr>
+  </type>
+  <type name="femaleobject">
+    <displayverbs type="stringlist">
+      <value>Untersuche</value>
+      <value>Nimm</value>
+    </displayverbs>
+    <gender>sie</gender>
+    <article>sie</article>
+    <attr name="article_nom_def">die</attr>
+    <attr name="article_gen_def">der</attr>
+    <attr name="article_dat_def">der</attr>
+    <attr name="article_acc_def">die</attr>
+    <attr name="article_nom_def_UC">Die</attr>
+    <attr name="article_gen_def_UC">Der</attr>
+    <attr name="article_dat_def_UC">Der</attr>
+    <attr name="article_acc_def_UC">Die</attr>
+    <attr name="article_nom_ind">eine</attr>
+    <attr name="article_gen_ind">einer</attr>
+    <attr name="article_dat_ind">einer</attr>
+    <attr name="article_acc_ind">eine</attr>
+    <attr name="article_nom_ind_UC">Eine</attr>
+    <attr name="article_gen_ind_UC">Einer</attr>
+    <attr name="article_dat_ind_UC">Einer</attr>
+    <attr name="article_acc_ind_UC">Eine</attr>
+    <attr name="pp_nom">sie</attr>
+    <attr name="pp_gen">ihrer</attr>
+    <attr name="pp_dat">ihr</attr>
+    <attr name="pp_acc">sie</attr>
+    <attr name="pp_nom_UC">Sie</attr>
+    <attr name="pp_gen_UC">Ihrer</attr>
+    <attr name="pp_dat_UC">Ihr</attr>
+    <attr name="pp_acc_UC">Sie</attr>
+  </type>
+  <type name="maleobjectplural">
+    <displayverbs type="stringlist">
+      <value>Untersuche</value>
+      <value>Nimm</value>
+    </displayverbs>
+    <gender>sie</gender>
+    <article>sie</article>
+    <attr name="article_nom_def">die</attr>
+    <attr name="article_gen_def">der</attr>
+    <attr name="article_dat_def">den</attr>
+    <attr name="article_acc_def">die</attr>
+    <attr name="article_nom_def_UC">Die</attr>
+    <attr name="article_gen_def_UC">Der</attr>
+    <attr name="article_dat_def_UC">Den</attr>
+    <attr name="article_acc_def_UC">Die</attr>
+    <attr name="pp_nom">sie</attr>
+    <attr name="pp_gen">ihrer</attr>
+    <attr name="pp_dat">ihnen</attr>
+    <attr name="pp_acc">sie</attr>
+    <attr name="pp_nom_UC">Sie</attr>
+    <attr name="pp_gen_UC">Ihrer</attr>
+    <attr name="pp_dat_UC">Ihnen</attr>
+    <attr name="pp_acc_UC">Sie</attr>
+  </type>
+  <type name="femaleobjectplural">
+    <displayverbs type="stringlist">
+      <value>Untersuche</value>
+      <value>Nimm</value>
+    </displayverbs>
+    <gender>sie</gender>
+    <article>sie</article>
+    <attr name="article_nom_def">die</attr>
+    <attr name="article_gen_def">der</attr>
+    <attr name="article_dat_def">den</attr>
+    <attr name="article_acc_def">die</attr>
+    <attr name="article_nom_def_UC">Die</attr>
+    <attr name="article_gen_def_UC">Der</attr>
+    <attr name="article_dat_def_UC">Den</attr>
+    <attr name="article_acc_def_UC">Die</attr>
+    <attr name="pp_nom">sie</attr>
+    <attr name="pp_gen">ihrer</attr>
+    <attr name="pp_dat">ihnen</attr>
+    <attr name="pp_acc">sie</attr>
+    <attr name="pp_nom_UC">Sie</attr>
+    <attr name="pp_gen_UC">Ihrer</attr>
+    <attr name="pp_dat_UC">Ihnen</attr>
+    <attr name="pp_acc_UC">Sie</attr>
+  </type>
+  <type name="defaultobject">
+    <visible />
+    <displayverbs type="stringlist">
+      <value>Untersuche</value>
+      <value>Nimm</value>
+    </displayverbs>
+    <inventoryverbs type="stringlist">
+      <value>Untersuche</value>
+      <value>Benutze</value>
+      <value>Lege</value>
+    </inventoryverbs>
+    <take type="boolean">false</take>
+    <use type="boolean">false</use>
+    <givesingle type="boolean">false</givesingle>
+    <drop />
+    <gender>es</gender>
+    <article>es</article>
+    <attr name="article_nom_def">das</attr>
+    <attr name="article_gen_def">des</attr>
+    <attr name="article_dat_def">dem</attr>
+    <attr name="article_acc_def">das</attr>
+    <attr name="article_nom_def_UC">Das</attr>
+    <attr name="article_gen_def_UC">Des</attr>
+    <attr name="article_dat_def_UC">Dem</attr>
+    <attr name="article_acc_def_UC">Das</attr>
+    <attr name="article_nom_ind">ein</attr>
+    <attr name="article_gen_ind">eines</attr>
+    <attr name="article_dat_ind">einem</attr>
+    <attr name="article_acc_ind">ein</attr>
+    <attr name="article_nom_ind_UC">Ein</attr>
+    <attr name="article_gen_ind_UC">Eines</attr>
+    <attr name="article_dat_ind_UC">Einem</attr>
+    <attr name="article_acc_ind_UC">Ein</attr>
+    <attr name="pp_nom">es</attr>
+    <attr name="pp_gen">seiner</attr>
+    <attr name="pp_dat">ihm</attr>
+    <attr name="pp_acc">es</attr>
+    <attr name="pp_nom_UC">ES</attr>
+    <attr name="pp_gen_UC">Seiner</attr>
+    <attr name="pp_dat_UC">Ihm</attr>
+    <attr name="pp_acc_UC">Es</attr>
+    <isopen type="boolean">false</isopen>
+    <open type="boolean">false</open>
+    <close type="boolean">false</close>
+    <container type="boolean">false</container>
+    <descprefix>Du bist hier:</descprefix>
+    <objectslistprefix>Du siehst</objectslistprefix>
+    <exitslistprefix>Mögliche Ausgänge:</exitslistprefix>
+    <contentsprefix>enthält</contentsprefix>
+    <description type="string"></description>
+    <scenery type="boolean">false</scenery>
+    <hidechildren type="boolean">false</hidechildren>
+    <listchildren type="boolean">false</listchildren>
+    <usedefaultprefix />
+    <volume type="int">0</volume>
+    <dark type="boolean">false</dark>
+    <lightstrength type="string"></lightstrength>
+    <darklevel type="boolean">false</darklevel>
+    <attr name="grid_width" type="int">1</attr>
+    <attr name="grid_length" type="int">1</attr>
+    <attr name="grid_fill">White</attr>
+    <attr name="grid_border">Black</attr>
+    <attr name="grid_borderwidth" type="int">1</attr>
+    <attr name="grid_bordersides" type="int">15</attr>
+    <attr name="grid_render" type="boolean">false</attr>
+    <attr name="grid_label" type="string"></attr>
+    <grid_parent_offset_auto />
+    <attr name="grid_parent_offset_x" type="int">0</attr>
+    <attr name="grid_parent_offset_y" type="int">0</attr>
+    <attr name="pov_alias">ich</attr>
+    <pov_alt type="stringlist">
+      <value>mich</value>
+    </pov_alt>
+    <attr name="pov_look">Du siehst aber gut aus.</attr>
+    <attr name="pov_gender">du</attr>
+    <attr name="pov_article">dich</attr>
+    <attr name="feature_usegive" type="boolean">false</attr>
+    <attr name="feature_container" type="boolean">false</attr>
+    <attr name="feature_switchable" type="boolean">false</attr>
+    <attr name="feature_edible" type="boolean">false</attr>
+    <attr name="feature_player" type="boolean">false</attr>
+    <attr name="feature_lightdark" type="boolean">false</attr>
+    <changedparent type="script">
+      if (game.pov = this) {
+        if (IsDefined("oldvalue")) {
+          OnEnterRoom (oldvalue)
+        }
+        else {
+          OnEnterRoom (null)
+        }
+        if (game.gridmap) {
+          MergePOVCoordinates
+        }
+      }
+    </changedparent>
+    <changedisopen type="script">
+      if (this.isopen and HasScript(this, "onopen")) {
+        do (this, "onopen")
+      }
+      if (not this.isopen and HasScript(this, "onclose")) {
+        do (this, "onclose")
+      }
+    </changedisopen>
+    <changedlocked type="script">
+      if (this.locked and HasScript(this, "onlock")) {
+        do (this, "onlock")
+      }
+      if (not this.locked and HasScript(this, "onunlock")) {
+        do (this, "onunlock")
+      }
+    </changedlocked>
+    <changedswitchedon type="script">
+      if (this.switchedon and HasScript(this, "onswitchon")) {
+        do (this, "onswitchon")
+      }
+      if (not this.switchedon and HasScript(this, "onswitchoff")) {
+        do (this, "onswitchoff")
+      }
+    </changedswitchedon>
+  </type>
+  <type name="plural">
+    <gender>sie</gender>
+    <article>sie</article>
+    <attr name="article_nom_def">die</attr>
+    <attr name="article_gen_def">der</attr>
+    <attr name="article_dat_def">den</attr>
+    <attr name="article_acc_def">die</attr>
+    <attr name="article_nom_def_UC">Die</attr>
+    <attr name="article_gen_def_UC">Der</attr>
+    <attr name="article_dat_def_UC">Den</attr>
+    <attr name="article_acc_def_UC">Die</attr>
+    <attr name="pp_nom">sie</attr>
+    <attr name="pp_gen">ihrer</attr>
+    <attr name="pp_dat">ihnen</attr>
+    <attr name="pp_acc">sie</attr>
+    <attr name="pp_nom_UC">Sie</attr>
+    <attr name="pp_gen_UC">Ihrer</attr>
+    <attr name="pp_dat_UC">Ihnen</attr>
+    <attr name="pp_acc_UC">Sie</attr>
+  </type>
+</library>
