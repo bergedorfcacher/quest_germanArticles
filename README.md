@@ -24,3 +24,5 @@ singular female object: object.article_gen_ind = einer
 plural male object: object.pp_dat_UC = Ihnen
 
 Have fun!
+
+This libray comes under the MIT license: https://opensource.org/licenses/MIT
